@@ -1,5 +1,5 @@
 # 💫 About Me:
-Code enthusiast, coffee lover ☕, and lifelong learner | Building apps, exploring algorithms, and analysing AI behaviour<br>
+Code enthusiast, coffee lover ☕, and lifelong learner | Building apps, exploring algorithms,designing system architecture and analysing AI behaviour<br>
 
 
 # 💻 Tech Stack:
